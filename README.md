@@ -1,23 +1,23 @@
-# 📊 Business Intelligence Interno – Vida Financeira Completa da Empresa
+# 📊 Portfolio BI – Análise Financeira Completa
 
-Este repositório apresenta um **BI corporativo interno**, cobrindo 100% da vida financeira da empresa.  
-Os dashboards foram desenvolvidos em **Power BI** e consolidam dados de entradas, custos, lucros, extratos e evolução de funcionários, permitindo uma visão integrada e estratégica da operação.
+Este repositório apresenta um **Business Intelligence interno** desenvolvido em **Power BI**, cobrindo 100% da vida financeira da empresa.  
+Os dashboards consolidam dados de entradas, custos, lucros, extratos e evolução de funcionários, oferecendo uma visão integrada e estratégica da operação.
 
 ---
 
 ## 📌 Objetivo
-Fornecer uma visão **financeira e operacional completa** da empresa, permitindo:
+Fornecer uma visão **financeira e operacional completa**, permitindo:
 - Monitoramento em tempo real de entradas, custos e lucros.  
 - Acompanhamento da evolução de margens e impostos.  
 - Controle detalhado de contas, clientes e condomínios.  
 - Gestão de funcionários e despesas por categoria.  
-- Consolidação de relatórios para tomada de decisão estratégica.  
+- Consolidação de relatórios para decisões estratégicas.  
 
 ---
 
 ## 🔍 Abordagem Analítica
 - Integração de dados de múltiplos sistemas (financeiro, operacional e RH).  
-- Modelagem em **Power Query (M)** e **SQL** para garantir consistência.  
+- Modelagem em **Power Query (M)** e **SQL** para consistência e confiabilidade.  
 - Dashboards segmentados por **departamento, tecnologia, terceiros e período**.  
 - Visualizações comparativas para identificar gargalos e oportunidades.  
 
@@ -69,4 +69,5 @@ Basta rolar a página e acessar diretamente a seção desejada.
 
 ## 📬 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulordsdssilva)  
-- 📧 [Email](mailto:contatopaulosilva@outlook.com.br)  
+- 📧 [Email](mailto:contatopaulosilva@outlook.com.br)
+- 🌐 [Portfólio Web](https://s-paulo-roberto-silva-2.hedsilon.com)    
